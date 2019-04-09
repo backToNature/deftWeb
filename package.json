@@ -1,0 +1,26 @@
+{
+  "name": "deftweb",
+  "version": "1.0.0",
+  "description": "deftWebCms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backToNature/deftWeb.git"
+  },
+  "author": "'guohao' <'backtonature@foxmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/backToNature/deftWeb/issues"
+  },
+  "homepage": "https://github.com/backToNature/deftWeb#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-compress": "^3.0.0",
+    "koa-logger": "^3.2.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0"
+  }
+}
